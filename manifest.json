@@ -1,9 +1,9 @@
 {
-  "id": "/iron-paradise/",
+  "id": "iron-paradise-app",
   "name": "Iron Paradise",
   "short_name": "Iron Paradise",
-  "start_url": "/iron-paradise/",
-  "scope": "/iron-paradise/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0c0a09",
