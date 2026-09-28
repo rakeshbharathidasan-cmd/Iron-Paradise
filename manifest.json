@@ -1,8 +1,9 @@
 {
+  "id": "/iron-paradise/",
   "name": "Iron Paradise",
   "short_name": "Iron Paradise",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/iron-paradise/",
+  "scope": "/iron-paradise/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0c0a09",
